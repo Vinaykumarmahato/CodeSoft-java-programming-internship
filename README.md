@@ -98,3 +98,155 @@ Your score will be calculated based on the number of attempts you took to guess 
 - Do you want to play another round? (yes/no): no
 
 - Thank you for playing! Your final score: 6
+
+  # Task 2: Student Grade Calculator
+
+Welcome to the Student Grade Calculator! This program allows you to calculate your average percentage and corresponding grade based on the marks obtained in each subject.
+
+## How to Use
+
+1. Run the program by executing the provided script.
+2. Enter the number of subjects for which you want to calculate the grade.
+3. Enter the marks obtained (out of 100) for each subject.
+4. The program will calculate the total marks, average percentage, and assign a grade based on the average percentage.
+
+## Example
+
+- Enter the number of subjects: 5
+- Enter marks obtained in subject 1: 85
+- Enter marks obtained in subject 2: 92
+- Enter marks obtained in subject 3: 78
+- Enter marks obtained in subject 4: 70
+- Enter marks obtained in subject 5: 88
+
+- Total Marks: 413
+- Average Percentage: 82.6%
+- Grade: B
+
+## Grade Scale
+
+- A: Average Percentage >= 90%
+- B: 80% <= Average Percentage < 90%
+- C: 70% <= Average Percentage < 80%
+- D: 60% <= Average Percentage < 70%
+- E: 50% <= Average Percentage < 60%
+- F: Average Percentage < 50%
+
+## Instructions
+
+1. Clone or download this repository to your local machine.
+2. Compile and run the provided Java file using a Java compiler or IDE.
+3. Follow the prompts to input the marks and calculate the grade.
+
+Have fun using the Student Grade Calculator to determine your average percentage and grade based on your marks!
+
+
+
+Note: This program uses a simple grading scale for illustrative purposes. In real-world scenarios, grading scales can vary based on institutions or organizations.
+
+# Task 4: Student Course Registration System
+
+Welcome to the Student Course Registration System! This program allows students to register for courses and manage their course schedule.
+
+## Features
+
+- Store course information, including course code, title, description, capacity, and schedule.
+- Store student information, including student ID, name, and registered courses.
+- Display available courses with details and available slots.
+- Allow students to register for courses from the available options.
+- Enable students to drop courses they have registered for.
+- Interactive console-based user interface.
+
+## How to Use
+
+1. Clone or download this repository to your local machine.
+2. Compile the Java file(s) using a Java compiler or IDE.
+3. Run the compiled program to start the Student Course Registration System.
+4. Follow the on-screen prompts to interact with the system, including course registration and removal.
+5. Exit the program when done.
+
+
+# Task 5: Student Management System
+
+Welcome to the Student Management System! This program allows you to manage student information including names, roll numbers, and grades.
+
+## Features
+
+- Add a new student with name, roll number, and grade.
+- Remove a student by roll number.
+- Search for a student by roll number.
+- Display all students' information.
+- Interactive console-based user interface.
+- Simple and easy-to-use.
+
+## How to Use
+
+- 1. Clone or download this repository to your local machine.
+- 2. Compile the Java file using a Java compiler or IDE.
+- 3. Run the compiled program to start the Student Management System.
+- 4. Follow the on-screen prompts to add, remove, search, and display student information.
+- 5. Exit the program when done.
+
+## Example Usage
+
+
+## Student Management System
+- 1. Add Student
+- 2. Remove Student
+- 3. Search Student
+- 4. Display All Students
+- 5. Exit
+- Select an option: 1
+
+- Enter Name: John Doe
+-  Enter Roll Number: 123
+- Enter Grade: A
+
+## Student added successfully.
+
+- Student Management System
+- 1. Add Student
+- 2. Remove Student
+- 3. Search Student
+- 4. Display All Students
+- 5. Exit
+- Select an option: 3
+
+## Enter Roll Number to Search: 123
+- Student Found:
+- Name: John Doe
+- Roll Number: 123
+- Grade: A
+
+## Student Management System
+- 1. Add Student
+- 2. Remove Student
+- 3. Search Student
+- 4. Display All Students
+- 5. Exit
+## Select an option: 2
+
+- Enter Roll Number to Remove: 123
+- Student removed successfully.
+
+## Student Management System
+- 1. Add Student
+- 2. Remove Student
+- 3. Search Student
+- 4. Display All Students
+- 5. Exit
+- Select an option: 4
+
+## No students currently in the system.
+
+- Student Management System
+- 1. Add Student
+- 2. Remove Student
+- 3. Search Student
+- 4. Display All Students
+- 5. Exit
+- Select an option: 5
+Exiting Student Management System.
+
+
+
